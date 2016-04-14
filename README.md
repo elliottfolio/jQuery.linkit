@@ -12,8 +12,3 @@ jQuery - [jQuery Site](https://jquery.com)
 
 ## License 
 MIT License
-
-
-#jQueryplugin
-#JavaScriptDevTutorials 
-#JavaScriptFrameworkTutorials
