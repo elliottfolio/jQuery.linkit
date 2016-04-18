@@ -1,0 +1,33 @@
+{
+    "name": "LinkIt",
+    "title": "LinkIt jQuery Plugin",
+    "description": "jQuery plugin to convert any element to a link"
+    "keywords": [
+        "link"
+        "html",
+        "content"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Elliott Brown",
+        "url": "http://elliottfolio.com"
+    },
+    "maintainers": [
+        {
+            "name": "Elliott Brown",
+            "email": "ellpb1113@gmail.com",
+            "url": "http://elliottfolio.com/contact"
+        }
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "https://github.com/elliottfolio/jQuery.linkit/LICENSE.md"
+        }
+    ],
+    "homepage": "https://github.com/elliottfolio/jQuery.linkit",
+    "docs": "https://github.com/elliottfolio/jQuery.linkit",
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
